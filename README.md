@@ -1,6 +1,6 @@
 # 🎓 Fode (fode.io)
 
-Welcome to the central repository for **Fode**, an innovative EdTech platform designed to [insert your mission here]. This repository houses the core codebase that powers [fode.io](https://fode.io).
+Welcome to the central repository for **Fode**, an innovative EdTech platform designed to help kids learn code. This repository houses the core codebase that powers [fode.io](https://fode.io).
 
 ## 🛠️ Tech Stack
 * **Frontend:** React, Tailwind CSS, HTML/CSS/JS
