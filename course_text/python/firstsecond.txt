@@ -1,1 +1,23 @@
-Welcome to the second chapter of Python. If we have a land of python, and the first chapter was the gate, this is basically the lobby! In this chapter,
+Welcome to the second chapter of Python. If we have a land of python, and the first chapter was the gate, this is basically the lobby! In this chapter, we are gonna look into what that line of code which we ran in the previous exercise really does.
+
+print("Hello World")
+
+So print here is basically a function. So what is a function? We will explore that later but for now, we should just know that print basically puts a bunch of text in the terminal, which is the black box where we see our output. Think of it like this. Your mom is the developer, your food is the text and the lunch box is the terminal. Your mom uses print() to put your food (food = text) in your lunch box (lunch box = terminal). Cool way of remembering it, right?
+
+Instructions
+
+Ever made a pancake, sandwich, tea or even lemonade. Well in this exercise, that experience is gonna come in handy! You are gonna write the recipe of what you made most recently but there is a twist! You need to write it with print functions in a formatted way. Here is the output you can choose to aim for:
+
+Lemonade
+=======
+Ingredients
+* Water
+* Lemons
+* Sugar
+--------
+Recipe:
+Step 1: Add water in a bowel.
+Step 2: Squeeze lemon juice inside
+Step 3: Add sugar
+Step 4: Mix
+Step 5: Enjoy!
