@@ -1,0 +1,18 @@
+Hi there! You might have clicked the course as this is your first one and you came to the right place! I mean course. rewinding... You came to the right course. Python is one of the most easiest tech languages as of 2026. If you look around, almost every single video game or social media app is built with python. In this course you will go from "wait, whats's python? isn't that a big fat snake?" to "On sunday I will be building a chatbot with gemini api keys.".
+
+A brief history
+
+The name of the founder of Python is Guido Van Rossum. His name sounds a bit strange and feels like some ancient guy whose name you would see in a history book right? Actually, he was a dutch software developer who made python. He began working on the project in 1980s and it was released in 2008. Let's stop the history cuz are we here for history or code?
+
+Role
+
+So python basically acts as a language for servers. If you don't understand or know what servers, we have a small tutorial on them which you can go and check out. Anyway, it is important to know that Python can't make a website, although it makes a website's servers like Instagram uses some languages other than python for the frontend (fancy term for what you see) and python for its engines on basically what post, who put it, etc. Now lets do something fun!
+
+Instructions
+
+In this one, you don't have to do anything you just have to copy-paste this line of code into the editor you have on the right
+
+print("Hello World")
+
+When you are done, hit the run button and in the terminal, you should see Hello World written there. Now click the submit button and move one!
+You are ready for the journey ahead 🚀
