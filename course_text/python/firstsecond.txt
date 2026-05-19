@@ -1,0 +1,1 @@
+Welcome to the second chapter of Python. If we have a land of python, and the first chapter was the gate, this is basically the lobby! In this chapter,
